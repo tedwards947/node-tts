@@ -1,0 +1,22 @@
+{
+  "name": "tonyspeak",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "author": {
+    "name": "Tony Edwards",
+    "email": "<aedwards947@gmail.com>"
+  },
+  "description": "Node.js TTS synthesizer wrapper using node-speak and speaker",
+  "keywords": [
+    "audio",
+    "sound"
+  ],
+  "dependencies": {
+    "speaker": "x.x.x"
+  },
+  "analyze": false,
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
