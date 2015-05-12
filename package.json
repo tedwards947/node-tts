@@ -1,5 +1,5 @@
 {
-  "name": "tonyspeak",
+  "name": "node-tts",
   "version": "0.1.0",
   "main": "lib/index.js",
   "author": {
@@ -12,7 +12,8 @@
     "sound"
   ],
   "dependencies": {
-    "speaker": "x.x.x"
+    "speaker": "x.x.x",
+    "readable": "x.x.x"
   },
   "analyze": false,
   "license": "MIT",
